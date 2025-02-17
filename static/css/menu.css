@@ -1,0 +1,30 @@
+.menu {
+    position: absolute;
+    text-align: center;
+    border-radius: 40px;
+    border: 3px solid black;
+    font-size: 25px;
+    width: 300px;
+    height: 80px;
+    margin-top: 18%;
+    margin-left: 40%;
+    background-color: #fcd07d;
+    box-shadow: 0px 0px 30px #fcd07d;
+    appearance: none;
+    cursor: pointer;
+    list-style: none;
+    transition: all 0.4s;
+}
+
+.menu:hover {
+    background-color: #efab64;
+    transform: scale(110%);
+}
+
+.gif {
+    position: absolute;
+    width: 100px;
+    margin-top: 50%;
+    margin-left: 47%;
+}
+

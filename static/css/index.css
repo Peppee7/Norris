@@ -1,0 +1,14 @@
+@import "hero.css";
+@import "menu.css";
+@import "button.css";
+@import "commons.css";
+@import "title.css";
+@import "text.css";
+@import "";
+
+body{
+    overflow: hidden;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
