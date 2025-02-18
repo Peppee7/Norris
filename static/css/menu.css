@@ -18,7 +18,6 @@
 
 .menu:hover {
     background-color: #efab64;
-    transform: scale(110%);
 }
 
 .gif {
@@ -27,4 +26,3 @@
     margin-top: 50%;
     margin-left: 47%;
 }
-
